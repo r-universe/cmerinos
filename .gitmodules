@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "csemTools"]
+	path = csemTools
+	url = https://github.com/cmerinos/csemtools
 [submodule "facomplex"]
 	path = facomplex
 	url = https://github.com/cmerinos/facomplex
